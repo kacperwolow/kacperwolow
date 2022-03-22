@@ -1,24 +1,28 @@
-## Hi there 👋 | No siema 🙂
+# Hi there 👋 | No siema 🙂
 
-### My name is Kacper, I'm 21 (soon 22) years old programmer from Poland. I live in Wołów in Lower Silesia (40km near Wrocław). Currently I am creating websites with HTML5, CSS3, JavaScript, PHP and MySQL (and recently started using: Bootstrap 3/4, jQuery and Sass).
+## My name is Kacper, I'm 23 years old programmer from Poland. I live in Wołów in Lower Silesia (40km near Wrocław). Currently I am creating websites and making computer games.
 
-<!--Here are some ideas to get you started:-->
+<!--### 💼 Where am I?
 
-<!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning **web frameworks** (SPA like React/Angular/Vue, RWD like FND/Materialize)
-- 🌐 All of my projects are available at: kacperwolow.ct8.pl, jablonka.ct8.pl and systemik.ct8.pl
-- 👯 I’m looking to collaborate on **youngdev.ct8.pl (and paid projects)**
-- 🤔 I’m looking for help with **money**
-- 📫 How to reach me: e-mail/GHangouts, Gadu-Gadu (IM from Poland), Suber (my Social Networking Service)
+- 🎮 Working at: Madnetic Games SA (Wrocław)
+- 🎓 Study at: WSB university (Wrocław)
+- 📺 Collaborate with: TVS Styk (student TV in Wrocław)
+- 🌐 I create projects under the "[Grupa Systemik](http://systemik.ct8.pl/)" brand ([@systemik.corp](https://github.com/systemik-corp))-->
+
+### 📚 What am i learning?
+
+- C/C++ (especially Unreal Engine)
+- RWD frameworks and JavaScript
+- Python
+
+...and much more
+
+### 📞 Contact me
+
+- 🌞 Gadu-Gadu (IM from Poland): 31325389
+- 📧 DM's on social media (in most cases the login is: @kacperwolow)
+
 <!--
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-**kacperwolow/kacperwolow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I see first user README description on onedebos profile
+kacperwolow.ct8.pl | jablonka.ct8.pl | systemik.ct8.pl | youngdev.ct8.pl
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 -->
